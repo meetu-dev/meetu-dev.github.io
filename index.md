@@ -4,25 +4,33 @@ layout: home
 
 hero:
   name: "Meetu"
-  text: "迷途之网"
-  tagline: My great project tagline
+  text: "迷途"
+  tagline: 迷途AI，集合国内外流行AI模型应用
   image:
-    src: /logo.png
+    src: /logo.webp
     alt: logo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 下载APP
+      link: /download
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 使用教程
+      link: /quickstart
 
 features:
-  - title: Feature 1
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 安卓下载
+    icon: 🔥
+    link: "/download#安卓用户下载"
+    linkText: "现在安装"
+    details: 点击安装安装版【迷途APP】
+  - title: 网页版
+    icon: 🎯
+    link: "https://web.meetu.dev"
+    linkText: "现在前往"
+    details: 点击直达网页版
+  - title: 迷途社
+    icon: 🚀
+    link: "https://open.meetu.dev"
+    linkText: "现在前往"
+    details: 敬请期待
 ---
-
