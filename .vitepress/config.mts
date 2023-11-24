@@ -6,6 +6,7 @@ export default defineConfig({
   description: "迷途社,迷途智能AI",
   lang: "zh-CN",
   head: [
+    ["link", { rel: "icon", href: "/logo.webp" }],
     [
       "script",
       {
@@ -40,7 +41,10 @@ export default defineConfig({
         text: "产品",
         items: [
           {
-            items: [{ text: "安卓版", link: "/download#安卓用户下载" }],
+            items: [
+              { text: "Inke 笔记", link: "https://inke.app" },
+              { text: "ChatGPT镜像", link: "https://d.aging.run" },
+            ],
           },
         ],
       },
