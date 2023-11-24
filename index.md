@@ -7,8 +7,8 @@ hero:
   text: "迷途"
   tagline: 迷途AI，集合国内外流行AI模型应用
   image:
-    src: /logo.webp
-    alt: logo
+    src: /phone.png
+    alt: phone
   actions:
     - theme: brand
       text: 下载APP

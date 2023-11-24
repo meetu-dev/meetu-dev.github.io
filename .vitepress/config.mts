@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "迷途",
   description: "迷途社,迷途智能AI",
-  lang: "zh-CN",
+  lang: "zh",
   head: [
     ["link", { rel: "icon", href: "/logo.webp" }],
     [
@@ -20,19 +20,29 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: "迷途",
-    logo: "/logo.webp",
+    // logo: "/logo.webp",
+    darkModeSwitchLabel: "切换主题",
+    lastUpdated: {
+      text: "编辑于",
+      formatOptions: {
+        dateStyle: "full",
+        timeStyle: "medium",
+      },
+    },
+
+    returnToTopLabel: "顶部",
     search: {
       provider: "local",
     },
     nav: [
-      { text: "教程", link: "/quickstart" },
+      { text: "开始", link: "/quickstart" },
       {
         text: "下载",
         items: [
           {
             items: [
-              { text: "安卓版", link: "/download#安卓用户下载" },
-              { text: "网页版", link: "https://web.meetu.dev" },
+              { text: "迷途AI安卓版", link: "/download#安卓用户下载" },
+              { text: "迷途AI网页版", link: "https://web.meetu.dev" },
             ],
           },
         ],
@@ -52,15 +62,28 @@ export default defineConfig({
     ],
 
     sidebar: [
-      { text: "下载APP", link: "/download" },
-      { text: "教程简介", link: "/quickstart" },
-      { text: "产品列表", link: "/product" },
-      { text: "隐私协议", link: "/private" },
-      { text: "联系方式", link: "/contact" },
+      {
+        text: "导览",
+        items: [
+          { text: "教程简介", link: "/quickstart" },
+          { text: "下载APP", link: "/download" },
+          { text: "支持模型", link: "/model" },
+          { text: "关于自部署", link: "/host" },
+        ],
+      },
+      {
+        text: "其他",
+        items: [
+          { text: "我们的产品", link: "/product" },
+          { text: "隐私协议", link: "/private" },
+          { text: "联系方式", link: "/contact" },
+        ],
+      },
     ],
 
     socialLinks: [
       { icon: "github", link: "https://github.com/meetu-dev/meetu-dev" },
+      { icon: "twitter", link: "https://twitter.com/yesmoree" },
     ],
 
     footer: {
