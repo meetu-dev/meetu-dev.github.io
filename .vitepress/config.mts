@@ -49,7 +49,7 @@ export default defineConfig({
 
     sidebar: [
       { text: "下载APP", link: "/download" },
-      { text: "使用教程", link: "/quickstart" },
+      { text: "教程简介", link: "/quickstart" },
       { text: "产品列表", link: "/product" },
       { text: "隐私协议", link: "/private" },
       { text: "联系方式", link: "/contact" },
