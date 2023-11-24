@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Meetu"
   text: "迷途"
-  tagline: 迷途AI，集合国内外流行AI模型应用
+  tagline: 迷途AI，集合国内外流行AI模型应用 (开发中)
   image:
     src: /phone.png
     alt: phone
@@ -20,7 +20,7 @@ hero:
 features:
   - title: 「迷途AI」安卓APP下载
     icon: 🔥
-    link: "/download#安卓用户下载"
+    link: "/download"
     linkText: "现在安装"
     details: 点击安装安装版【迷途APP】
   - title: 「迷途AI」网页版
@@ -36,6 +36,6 @@ features:
   - title: 「迷途社群」Discord
     icon: 👏
     link: "https://discord.gg/sw38Fk4kgp"
-    details: 关注、支持、反馈
+    details: 在产品发布前关注我们的进展
     linkText: "立即加入"
 ---
