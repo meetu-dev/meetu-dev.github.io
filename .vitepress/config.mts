@@ -68,6 +68,7 @@ export default defineConfig({
           { text: "教程简介", link: "/quickstart" },
           { text: "下载APP", link: "/download" },
           { text: "支持模型", link: "/model" },
+          { text: "计费规则", link: "/mibi" },
           { text: "关于自部署", link: "/host" },
         ],
       },
