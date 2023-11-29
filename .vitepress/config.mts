@@ -6,7 +6,7 @@ export default defineConfig({
   description: "迷途社,迷途智能AI",
   lang: "zh",
   head: [
-    ["link", { rel: "icon", href: "/logo.webp" }],
+    ["link", { rel: "icon", href: "/logo.png" }],
     [
       "script",
       {
@@ -20,7 +20,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: "迷途",
-    // logo: "/logo.webp",
+    logo: "/logo.png",
     darkModeSwitchLabel: "切换主题",
     lastUpdated: {
       text: "编辑于",
@@ -67,7 +67,6 @@ export default defineConfig({
         items: [
           { text: "快速开始", link: "/quickstart" },
           { text: "下载APP", link: "/download" },
-          { text: "支持模型", link: "/model" },
           { text: "计费规则", link: "/mibi" },
           { text: "关于自部署", link: "/host" },
         ],
