@@ -6,9 +6,6 @@ hero:
   name: "Meetu"
   text: "迷途"
   tagline: 迷途AI，集合国内外流行AI模型应用 (开发中)
-  image:
-    src: /phone.png
-    alt: phone
   actions:
     - theme: brand
       text: 下载APP

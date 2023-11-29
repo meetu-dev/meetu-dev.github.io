@@ -75,7 +75,8 @@ export default defineConfig({
         text: "其他",
         items: [
           { text: "我们的产品", link: "/product" },
-          { text: "隐私协议", link: "/private" },
+          { text: "用户协议", link: "/termsuser" },
+          { text: "隐私政策", link: "/privacy" },
           { text: "联系方式", link: "/contact" },
         ],
       },

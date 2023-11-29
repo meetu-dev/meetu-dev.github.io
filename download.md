@@ -6,6 +6,8 @@
 产品开发中，欢迎加入我们的社区关注开发进度：https://discord.gg/sw38Fk4kgp
 :::
 
+测试版：[下载](https://img.aoau.top/download/meetu.apk)
+
 ## iOS用户下载
 
 ::: warning
