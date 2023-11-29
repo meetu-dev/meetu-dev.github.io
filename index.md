@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Meetu"
-  text: "迷途"
-  tagline: 迷途AI，集合国内外流行AI模型应用 (开发中)
+  text: "迷途兔"
+  tagline: 迷途AI，集合国内外流行AI模型应用 (GPT-4/文心一言等)
   image:
     src: /logo.png
     alt: logo
