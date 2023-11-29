@@ -3,7 +3,7 @@
 ## 安卓用户下载 <Badge type="warning" text="beta" />
 
 ::: warning
-产品开发中，欢迎加入我们的社区关注开发进度：https://discord.gg/sw38Fk4kgp
+产品开发中，欢迎加入我们的社区关注开发进度：https://discord.gg/sw38Fk4kgp 或QQ群655057729
 :::
 
 测试版：[下载](https://img.aoau.top/download/meetu.apk)
@@ -15,11 +15,6 @@
 :::
 
 ## 网页版
-
-::: warning
-产品开发中，欢迎加入我们的社区关注开发进度：https://discord.gg/sw38Fk4kgp
-:::
-
 
 ::: details
 关于
