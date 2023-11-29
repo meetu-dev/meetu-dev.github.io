@@ -33,7 +33,7 @@ features:
     link: "https://open.meetu.dev"
     linkText: "现在前往"
     details: 敬请期待
-  - title: 「迷途社群」Discord & QQ
+  - title: Discord & QQ
     icon: 👏
     link: "/contact"
     details: 在产品发布前关注我们的进展
