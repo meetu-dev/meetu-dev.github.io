@@ -70,6 +70,7 @@ export default defineConfig({
           { text: "下载APP", link: "/download" },
           { text: "计费规则", link: "/mibi" },
           { text: "关于自部署", link: "/host" },
+          { text: "加入社群", link: "/contact" },
         ],
       },
       {
@@ -78,7 +79,6 @@ export default defineConfig({
           { text: "我们的产品", link: "/product" },
           { text: "用户协议", link: "/termsuser" },
           { text: "隐私政策", link: "/privacy" },
-          { text: "联系方式", link: "/contact" },
         ],
       },
     ],

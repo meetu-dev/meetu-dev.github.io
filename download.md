@@ -6,9 +6,10 @@
  
 ## 安卓APP下载 <Badge type="warning" text="beta" />
 
-| 版本号           | 下载地址                                               |
-| ---------------- | ------------------------------------------------------ |
-| meetu-v1.1.0.apk | [下载](https://img.aoau.top/download/meetu-v1.1.0.apk) |
+| 版本号           | 下载地址                                                     | 日志                     |
+| ---------------- | ------------------------------------------------------------ | ------------------------ |
+| meetu-v1.1.1.apk | [下载安装包](https://img.aoau.top/download/meetu-v1.1.1.apk) | 替换启动图、登录页UI调整 |
+| meetu-v1.1.0.apk | [下载安装包](https://img.aoau.top/download/meetu-v1.1.0.apk) | 初始版发布               |
 
 ## iOS下载
 
