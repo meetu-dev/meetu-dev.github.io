@@ -8,7 +8,7 @@
 
 | 版本号           | 下载地址                                        |
 | ---------------- | ----------------------------------------------- |
-| meetu-v1.1.0.apk | [下载](https://img.aoau.top/download/1.1.0.apk) |
+| meetu-v1.1.0.apk | [下载](https://img.aoau.top/download/meetu-v1.1.0.apk) |
 
 ## iOS用户下载
 
