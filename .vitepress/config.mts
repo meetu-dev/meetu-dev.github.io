@@ -3,7 +3,8 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "迷途",
-  description: "迷途社,迷途智能AI",
+  description:
+    "迷途社,迷途人工智能,迷途AI,集合国内外流行AI模型应用,ChatGPT,GPT-4.0,Claude,文心一言,通义千问,LLama2,讯飞星火,腾讯混元",
   lang: "zh",
   head: [
     ["link", { rel: "icon", href: "/logo.png" }],

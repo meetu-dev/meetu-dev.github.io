@@ -1,11 +1,13 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: 迷途
+titleTemplate: AI模型集合
 
 hero:
   name: "Meetu"
-  text: "迷途兔"
-  tagline: 迷途AI，集合国内外流行AI模型应用 (GPT-4/文心一言等)
+  text: "迷途, AI模型集合应用"
+  tagline: GPT-4/3.5、文心一言、LLama2、通义千问、Claude、腾讯混元、DALL·E、SD等
   image:
     src: /logo.png
     alt: logo
