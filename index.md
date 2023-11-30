@@ -16,7 +16,7 @@ hero:
       text: 下载APP
       link: /download
     - theme: alt
-      text: 教程简介
+      text: 预览简介
       link: /quickstart
 
 features:
