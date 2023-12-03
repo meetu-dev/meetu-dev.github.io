@@ -1,4 +1,4 @@
-# 迷途社群
+# 迷兔社群
 
 ### 交流群
 - Discord: https://discord.gg/sw38Fk4kgp

@@ -2,9 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "迷途",
+  title: "迷兔",
   description:
-    "迷途社,迷途人工智能,迷途AI,集合国内外流行AI模型应用,ChatGPT,GPT-4.0,Claude,文心一言,通义千问,LLama2,讯飞星火,腾讯混元",
+    "迷兔社,迷兔人工智能,迷兔AI,集合国内外流行AI模型应用,ChatGPT,GPT-4.0,Claude,文心一言,通义千问,LLama2,讯飞星火,腾讯混元",
   lang: "zh",
   head: [
     ["link", { rel: "icon", href: "/logo.png" }],
@@ -20,7 +20,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    siteTitle: "迷途",
+    siteTitle: "迷兔",
     logo: "/logo.png",
     darkModeSwitchLabel: "切换主题",
     lastUpdated: {
@@ -42,8 +42,8 @@ export default defineConfig({
         items: [
           {
             items: [
-              { text: "迷途AI安卓版", link: "/download#安卓用户下载" },
-              { text: "迷途AI网页版", link: "https://web.meetu.dev" },
+              { text: "迷兔AI安卓版", link: "/download#安卓用户下载" },
+              { text: "迷兔AI网页版", link: "https://web.meetu.dev" },
             ],
           },
         ],

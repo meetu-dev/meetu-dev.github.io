@@ -4,7 +4,7 @@ outline: deep
 
 # 快速开始
 
-迷途AI 是一款集成了主流大语言模型以及绘图模型的 APP，支持以下功能：
+迷兔AI 是一款集成了主流大语言模型以及绘图模型的 APP，支持以下功能：
 
 - 支持 OpenAI 的 GPT-3.5，GPT-4 大语言模型
 - 支持 Anthropic 的 Claude instant，Claude 2.0 大语言模型
