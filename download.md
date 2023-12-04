@@ -2,9 +2,9 @@
 
 ::: tip
 欢迎加入我们的社区关注开发进度：https://discord.gg/sw38Fk4kgp 或QQ群655057729
+:::
 
 下载方式：在浏览器打开此网页，点击对应平台下载链接即可安装。
-:::
  
 ## 安卓APP下载 <Badge type="warning" text="beta" />
 
