@@ -43,7 +43,10 @@ export default defineConfig({
           {
             items: [
               { text: "迷兔AI安卓版", link: "/download#安卓用户下载" },
-              { text: "迷兔AI网页版", link: "https://web.meetu.dev" },
+              {
+                text: "备用站点(Ctrl+D保存)",
+                link: "https://meetu-dev.github.io",
+              },
             ],
           },
         ],
