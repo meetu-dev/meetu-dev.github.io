@@ -52,6 +52,8 @@ outline: deep
 
 - GPT-3.5: 100次/天
 - GPT-4.0: 100次/天
+- Claude instant: 10次/天
+- Claude 2: 10次每天
 - 文心一言: 10次/天
 - 通义千问: 10次/天
 
