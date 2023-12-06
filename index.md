@@ -29,15 +29,15 @@ features:
     icon: 🎯
     link: "https://web.meetu.dev"
     linkText: "现在前往"
-    details: 点击直达迷兔AI网页版
-  - title: 迷兔社
-    icon: 🚀
-    link: "https://open.meetu.dev"
-    linkText: "现在前往"
     details: 敬请期待
-  - title: Discord & QQ
+  - title: 合作推广
+    icon: 🚀
+    link: "/contact#合作推广"
+    linkText: "助理推广"
+    details: 广告投放/自媒体运营，快来加入我们！
+  - title: 微信 & QQ & Discord
     icon: 👏
     link: "/contact"
-    details: 在产品发布前关注我们的进展
+    details: 关注我们的进展
     linkText: "立即加入"
 ---
