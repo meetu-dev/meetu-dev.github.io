@@ -34,8 +34,8 @@ features:
     icon: 🚀
     link: "/contact#合作推广"
     linkText: "助理推广"
-    details: 广告投放/自媒体运营，快来加入我们！
-  - title: 微信 & QQ & Discord
+    details: 广告/社交媒体，快来加入我们！
+  - title: 微信 & QQ 
     icon: 👏
     link: "/contact"
     details: 关注我们的进展

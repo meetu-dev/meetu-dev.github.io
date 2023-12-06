@@ -92,6 +92,7 @@ export default defineConfig({
     ],
 
     footer: {
+      message: "友链: <a href='https://inke.app' target='_blank'>Inke Note</a>",
       copyright: "Copyright © 2023-Meetu",
     },
   },
