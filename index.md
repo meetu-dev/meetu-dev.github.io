@@ -29,11 +29,11 @@ features:
     icon: 🎯
     link: "https://web.meetu.dev"
     linkText: "现在前往"
-    details: 敬请期待
+    details: 全平台通用
   - title: 合作推广
     icon: 🚀
     link: "/contact#合作推广"
-    linkText: "助理推广"
+    linkText: "助力推广"
     details: 广告/社交媒体，快来加入我们！
   - title: 微信 & QQ 
     icon: 👏

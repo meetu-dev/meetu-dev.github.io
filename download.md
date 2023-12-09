@@ -8,19 +8,15 @@
  
 ## 安卓APP下载 <Badge type="warning" text="beta" />
 
-| 安装包    | 下载链接                                | 日志 |
-| --------- | --------------------------------------- | ---- |
-| meetu.apk | [下载](https://pkg.meetu.dev/meetu.apk) | 首发 |
+| 安装包    | 下载链接                                | 日志 | 日期      |
+| --------- | --------------------------------------- | ---- | --------- |
+| meetu.apk | [下载](https://pkg.meetu.dev/meetu.apk) | 首发 | 2023/12/5 |
 
 
 ## 网页端
 
 ::: warning
-敬请期待
+网页版部分功能存在兼容性问题，如充值、图片下载，强烈建议使用APP版
 :::
 
-## Windows客户端下载
-
-::: warning
-敬请期待
-:::
+迷兔Web直达: [https://web.meetu.dev](https://web.meetu.dev)
