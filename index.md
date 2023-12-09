@@ -27,7 +27,7 @@ features:
     details: 点击安装迷兔APP
   - title: 「迷兔AI」网页版
     icon: 🎯
-    link: "https://web.meetu.dev"
+    link: "/download#网页端"
     linkText: "现在前往"
     details: 全平台通用
   - title: 合作推广
