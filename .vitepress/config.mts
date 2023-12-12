@@ -72,7 +72,7 @@ export default defineConfig({
           { text: "快速开始", link: "/quickstart" },
           { text: "下载APP", link: "/download" },
           { text: "计费规则", link: "/mibi" },
-          { text: "关于自部署", link: "/host" },
+          { text: "关于部署", link: "/deploy" },
           { text: "联系我们", link: "/contact" },
         ],
       },
