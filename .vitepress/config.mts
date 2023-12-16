@@ -12,9 +12,16 @@ export default defineConfig({
       "script",
       {
         async: "",
-        src: "https://umami.d0tmfb.tech/script.js",
-        "data-website-id": "97113bfe-b413-4b49-80fc-d6d0c492c100",
+        src: "https://www.googletagmanager.com/gtag/js?id=G-MJ79QL6TXQ",
       },
+    ],
+    [
+      "script",
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MJ79QL6TXQ');`,
     ],
   ],
   lastUpdated: true,
