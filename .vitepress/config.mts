@@ -59,24 +59,24 @@ export default defineConfig({
         ],
       },
       {
-        text: "产品",
+        text: "其他",
         items: [
           {
             items: [
               { text: "Inke 笔记", link: "https://inke.app" },
-              { text: "ChatGPT镜像", link: "https://d.aging.run" },
+              { text: "ChatGPT镜像", link: "https://gcloudlab.github.io" },
             ],
           },
         ],
       },
-      { text: "联系", link: "/contact" },
+      { text: "社区", link: "/contact" },
     ],
 
     sidebar: [
       {
         text: "导览",
         items: [
-          { text: "快速开始", link: "/quickstart" },
+          { text: "新手指引", link: "/quickstart" },
           { text: "下载APP", link: "/download" },
           { text: "计费规则", link: "/mibi" },
           { text: "关于部署", link: "/deploy" },
@@ -99,8 +99,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "友链: <a href='https://inke.app' target='_blank'>Inke Note</a>",
-      copyright: "Copyright © 2023-Meetu",
+      // message: "友链: <a href='https://inke.app' target='_blank'>Inke Note</a>",
+      copyright: "Copyright © 2023-迷兔AI",
     },
   },
 });
