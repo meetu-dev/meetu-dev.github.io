@@ -28,4 +28,4 @@
 网页版部分功能存在兼容性问题，如语音、充值、图片下载等功能，建议使用APP版
 :::
 
-迷兔Web直达: [https://web.meetu.dev](https://web.meetu.dev)
+迷兔Web直达(v1.1.4): [https://web.meetu.dev](https://web.meetu.dev)
